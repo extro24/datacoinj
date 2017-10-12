@@ -1,0 +1,19 @@
+{
+  "name": "datacoin",
+  "description": "Communicate with datacoind via JSON-RPC",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "datacoin",
+    "rpc"
+  ],
+  "author": "Mustafa Gezen <mustiigezen@gmail.com> (datacointalk.org)",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/datacoin-team/datacoin.js.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
